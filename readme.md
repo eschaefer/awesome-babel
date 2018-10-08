@@ -49,6 +49,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
  - [babel-plugin-transform-react-class-to-function](https://github.com/remcohaszing/babel-plugin-transform-react-class-to-function) - Transforms React class components into a function, if possible.
  - [babel-plugin-hoist-facc](https://github.com/strayiker/babel-plugin-hoist-facc) - Transforms function as child components to hoist the children function to highest scope.
  - [react-hiccup](https://github.com/callwait/babel-plugin-react-hiccup) - Hiccup syntax for React components.
+ - [babel-plugin-framer-x] - Use components built with Framer X in a real application or Storybook. Removes Framer X markup.
 
 ### Internationalization
 
